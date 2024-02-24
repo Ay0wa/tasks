@@ -57,5 +57,5 @@ func result(a int64, b int64, oper string) int64 {
 		var res int64 = a / b
 		return res
 	}
-	return 2
+	return 0
 }
